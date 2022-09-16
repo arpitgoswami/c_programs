@@ -2,10 +2,10 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/adi1090x/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/adi1090x/termux-style?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/adi1090x/termux-style?color=violet&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/arpitgoswami/c_programs?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/arpitgoswami/c_programs?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/arpitgoswami/c_programs?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/arpitgoswami/c_programs?color=violet&style=for-the-badge">
 </p>
 
 C is a general-purpose programming language that is extremely popular, simple, and flexible to use. It is a structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows, and many other complex programs like Oracle database, Git, Python interpreter, and more.
