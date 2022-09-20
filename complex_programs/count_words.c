@@ -1,5 +1,6 @@
 // Simple program for counting the words in the program.
 // Developed by Arpit
+// Can be used as count_words.out 
 
 #include <stdio.h>
 int main() {
